@@ -1,0 +1,9 @@
+*.ilk
+*.pdb
+*.exe
+*.dll
+*.suo
+*.user
+*.obj
+*.idb
+.vs
