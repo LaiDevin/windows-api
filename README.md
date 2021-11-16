@@ -2,4 +2,4 @@
 
 # https://docs.microsoft.com/en-us/windows/win32/winmsg/about-window-classes
 
-# CheckMenuItem
+# CheckMenuItem CheckMenuRadioItem
