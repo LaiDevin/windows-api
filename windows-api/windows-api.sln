@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tab-control", "tab-control\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tab-control2", "tab-control2\tab-control2.vcxproj", "{C0FFF2A5-FF99-463E-A96E-E95366050B3B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test-wnd", "test-wnd\test-wnd.vcxproj", "{97014B07-8561-4E01-B3C1-B36BACA61640}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{C0FFF2A5-FF99-463E-A96E-E95366050B3B}.Release|x64.Build.0 = Release|x64
 		{C0FFF2A5-FF99-463E-A96E-E95366050B3B}.Release|x86.ActiveCfg = Release|Win32
 		{C0FFF2A5-FF99-463E-A96E-E95366050B3B}.Release|x86.Build.0 = Release|Win32
+		{97014B07-8561-4E01-B3C1-B36BACA61640}.Debug|x64.ActiveCfg = Debug|x64
+		{97014B07-8561-4E01-B3C1-B36BACA61640}.Debug|x64.Build.0 = Debug|x64
+		{97014B07-8561-4E01-B3C1-B36BACA61640}.Debug|x86.ActiveCfg = Debug|Win32
+		{97014B07-8561-4E01-B3C1-B36BACA61640}.Debug|x86.Build.0 = Debug|Win32
+		{97014B07-8561-4E01-B3C1-B36BACA61640}.Release|x64.ActiveCfg = Release|x64
+		{97014B07-8561-4E01-B3C1-B36BACA61640}.Release|x64.Build.0 = Release|x64
+		{97014B07-8561-4E01-B3C1-B36BACA61640}.Release|x86.ActiveCfg = Release|Win32
+		{97014B07-8561-4E01-B3C1-B36BACA61640}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

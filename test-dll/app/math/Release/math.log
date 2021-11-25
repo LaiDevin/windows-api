@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  math.cpp
+    正在创建库 D:\Mock\vs\test-dll\app\Release\math.lib 和对象 D:\Mock\vs\test-dll\app\Release\math.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  math.vcxproj -> D:\Mock\vs\test-dll\app\Release\math.dll
